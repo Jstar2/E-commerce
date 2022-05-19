@@ -3,6 +3,8 @@ The following was discovered as part of building this project:
 
 * The original package name 'com.bolton.student-h2-example' is invalid and this project uses 'com.bolton.studenth2example' instead.
 
+Make sure you change dataBase setup in Application.properties file.
+
 # Getting Started
 
 ### Reference Documentation
